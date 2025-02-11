@@ -1,7 +1,7 @@
 
 <table>
   <tr>
-    <td style="width: 20%;"><img src="images/logo_metrica.png" alt="" /></td>
+    <td style="width: 20%;"><img src="images/log_metricas.png" alt="" /></td>
     <td style="font-size: 2em;"> Proyecto de Implementación del Modelo de Estimación COSMIC en una entidad del Gobierno Federal en México de nueva creación. </td>
   </tr>
 </table>
