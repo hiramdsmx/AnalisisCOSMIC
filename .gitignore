@@ -1,0 +1,27 @@
+# Archivos de Python
+*.pyc
+__pycache__/
+
+# Entornos virtuales
+venv/
+env/
+bin/
+include/
+lib/
+lib64
+share/
+pyvenv.cfg
+
+# Configuraciones de IDE
+.vscode/
+.idea/
+
+# Archivos de logs
+*.log
+
+# Dependencias instaladas
+*.egg-info/
+
+# Archivos de git
+.git/
+./

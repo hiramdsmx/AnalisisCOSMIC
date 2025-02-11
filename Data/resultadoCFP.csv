@@ -1,0 +1,102 @@
+PROCESO_FUNCIONAL,SUB_PROCESO_FUNCIONAL,PROCEDIMIENTO_HIJO,EVENTO_DISPARADOR,DESCRIPCION,GRUPO_DATOS,TIPO_MOVIMIENTO,CFP
+PROC_01,INFRAESTRUCTURA,SELECCION DE ###### DEL ######,MUESTRA ######,Se leen los catalogos,#Descripcion detallada de campos,R,2
+PROC_01,INFRAESTRUCTURA,SELECCION DE ###### DEL ######,MUESTRA ######,Se muestran los catalogos,#Descripcion detallada de campos,X,3
+PROC_01,INFRAESTRUCTURA,SELECCION DE ###### DEL ######,MUESTRA ######,Se lee informacion de las ###### del ######,#Descripcion detallada de campos,R,1
+PROC_01,INFRAESTRUCTURA,SELECCION DE ###### DEL ######,MUESTRA ######,Se muestra la informacion de la ###### seleccionada del ######,#Descripcion detallada de campos,X,1
+PROC_01,INFRAESTRUCTURA,SELECCION DE ###### DEL ######,MUESTRA ######,Se leen mensajes de error,#Descripcion detallada de campos,R,1
+PROC_01,INFRAESTRUCTURA,SELECCION DE ###### DEL ######,MUESTRA ######,Se muestran mensajes de error,#Descripcion detallada de campos,X,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS DEL ######,Se cargan los catalogos,#Descripcion detallada de campos,R,3
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS DEL ######,Se muestran los catalogos,#Descripcion detallada de campos,X,3
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS DEL ######,Se lee informacion del ###### para verificar que no se encuentre dado de alta,#Descripcion detallada de campos,R,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS DEL ######,En caso de que el ###### exista se muestra informacion sobre que el ###### ya se encuentra dado de alta en la base de datos,#Descripcion detallada de campos,X,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS DEL ######,"En caso de no existir el ######, se captura la informacion completa en BD",#Descripcion detallada de campos,E,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS DEL ######,"En caso de no existir el ######, se guarda la informacion completa en BD",#Descripcion detallada de campos,W,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS DEL ######,Muestra informacion capturada del ###### sin o con firma digital,#Descripcion detallada de campos,X,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS DEL ######,Se leen mensajes de error,#Descripcion detallada de campos,R,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS DEL ######,Se muestran mensajes de error,#Descripcion detallada de campos,X,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS DE LA ######,Se cargan los catalogos,#Descripcion detallada de campos,R,5
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS DE LA ######,Se muestran los catalogos,#Descripcion detallada de campos,X,5
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS DE LA ######,Se lee informacion de la ######  para verificar que no se encuentre dada de alta en BD,#Descripcion detallada de campos,R,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS DE LA ######,En caso de que la ###### exista se muestra informacion sobre su duplicidad,#Descripcion detallada de campos,X,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS DE LA ######,"En caso de no existir la ######, se guarda la informacion completa en BD",#Descripcion detallada de campos,W,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS DE LA ######,Muestra informacion sobre el registro de ###### como borrador o con firma informacion,#Descripcion detallada de campos,X,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS DE LA ######,Se leen mensajes de error,#Descripcion detallada de campos,R,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS DE LA ######,Se muestran mensajes de error,#Descripcion detallada de campos,X,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS PARA EL REGISTRO DE SOLICITUD,Se cargan los catalogos,#Descripcion detallada de campos,R,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS PARA EL REGISTRO DE SOLICITUD,Se muestran los catalogos,#Descripcion detallada de campos,X,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS PARA EL REGISTRO DE SOLICITUD,Se lee la informacion en BD sobre el registro de solicitud,#Descripcion detallada de campos,R,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS PARA EL REGISTRO DE SOLICITUD,Se muestra la informacion en BD sobre el registro de solicitud,#Descripcion detallada de campos,X,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS PARA EL REGISTRO DE SOLICITUD,Se guarda el registro de solicitud como borrador o firmado informacionmente,#Descripcion detallada de campos,W,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS PARA EL REGISTRO DE SOLICITUD,Se leen mensajes de error,#Descripcion detallada de campos,R,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DATOS PARA EL REGISTRO DE SOLICITUD,Se muestran mensajes de error,#Descripcion detallada de campos,X,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,###### POR SOLICITUD,Se lee que la llave de pago sea unica,#Descripcion detallada de campos,R,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,###### POR SOLICITUD,En caso de que la llave de pago ya exista se notifica,#Descripcion detallada de campos,X,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,###### POR SOLICITUD,Se captura la informacion digital en BD del pago,#Descripcion detallada de campos,E,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,###### POR SOLICITUD,Se guarda la informacion digital en BD del pago,#Descripcion detallada de campos,W,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,###### POR SOLICITUD,Se muestra el ###### capturados en modo de borrador o firma informacion,#Descripcion detallada de campos,X,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,###### POR SOLICITUD,Se leen mensajes de error,#Descripcion detallada de campos,R,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,###### POR SOLICITUD,Se muestran mensajes de error,#Descripcion detallada de campos,X,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DOCUMENTACION,Se CAPTURA la informacion digital en BD de documentos digitales,#Descripcion detallada de campos,E,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DOCUMENTACION,Se guarda la informacion digital en BD de documentos digitales,#Descripcion detallada de campos,W,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DOCUMENTACION,Se muestra la documentacion digital ingresada en modo de borrador o con firma informacion,#Descripcion detallada de campos,X,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DOCUMENTACION,Se leen mensajes de error,#Descripcion detallada de campos,R,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,DOCUMENTACION,Se muestran mensajes de error,#Descripcion detallada de campos,X,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,FIRMA informacion,Captura informacion de la firma informacion,#Descripcion detallada de campos,E,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,FIRMA informacion,Consulta estatus de la firma informacion del ###### para determinar su validez,#Descripcion detallada de campos,R,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,FIRMA informacion,Guarda informacion de firmado,#Descripcion detallada de campos,W,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,FIRMA informacion,Se leen mensajes de error,#Descripcion detallada de campos,R,1
+PROC_01,REGISTRAR Y RECIBIR,02 SELECCIONAR TRAMITE Y REGISTRAR DOCUMENTOS,FIRMA informacion,Se muestran mensajes de error,#Descripcion detallada de campos,X,1
+PROC_01,ASIGNAR SOLICITUD DE TRAMITE,SELECCION DE TRAMITES,MUESTRA SOLICITUDES DE TRAMITE,Se cargan los catalogos,#Descripcion detallada de campos,R,5
+PROC_01,ASIGNAR SOLICITUD DE TRAMITE,SELECCION DE TRAMITES,MUESTRA SOLICITUDES DE TRAMITE,Se muestran las solicitudes en TRAMITE tanto asignadas como por asignar,#Descripcion detallada de campos,X,6
+PROC_01,ASIGNAR SOLICITUD DE TRAMITE,SELECCION DE TRAMITES,MUESTRA SOLICITUDES DE TRAMITE,Se guarda el cambio de estatus una vez que el validador asigna a un evaluador el TRAMITE pendiente (solicitado->asignado),#Descripcion detallada de campos,W,1
+PROC_01,ASIGNAR SOLICITUD DE TRAMITE,SELECCION DE TRAMITES,MUESTRA SOLICITUDES DE TRAMITE,Se leen mensajes de error,#Descripcion detallada de campos,R,1
+PROC_01,ASIGNAR SOLICITUD DE TRAMITE,SELECCION DE TRAMITES,MUESTRA SOLICITUDES DE TRAMITE,Se muestran mensajes de error,#Descripcion detallada de campos,X,1
+PROC_01,EVALUAR,RECIBIR Y EVALUAR informacion,Muestra solicitudes del TRAMITE asignadas especificamente para el validador,Se cargan los catalogos,#Descripcion detallada de campos,R,5
+PROC_01,EVALUAR,RECIBIR Y EVALUAR informacion,Muestra solicitudes del TRAMITE asignadas especificamente para el validador,Se muestran los catalogos,#Descripcion detallada de campos,X,5
+PROC_01,EVALUAR,RECIBIR Y EVALUAR informacion,Muestra solicitudes del TRAMITE asignadas especificamente para el validador,Se muestran las solicitudes en TRAMITE tanto asignadas como por asignar,#Descripcion detallada de campos,X,1
+PROC_01,EVALUAR,RECIBIR Y EVALUAR informacion,Carga la informacion especifica de cada TRAMITE a evaluar,Carga catalogos,#Descripcion detallada de campos,R,3
+PROC_01,EVALUAR,RECIBIR Y EVALUAR informacion,Carga la informacion especifica de cada TRAMITE a evaluar,Muestra catalogos,#Descripcion detallada de campos,X,3
+PROC_01,EVALUAR,RECIBIR Y EVALUAR informacion,Carga la informacion especifica de cada TRAMITE a evaluar,Muestra la pantalla para analizar cada campo del TRAMITE,#Descripcion detallada de campos,X,1
+PROC_01,EVALUAR,RECIBIR Y EVALUAR informacion,Carga la informacion especifica de cada TRAMITE a evaluar,Guarda la informacion de la documentacion de cada TRAMITE,#Descripcion detallada de campos,W,1
+PROC_01,EVALUAR,RECIBIR Y EVALUAR informacion,Flujos alternos: Notificar inconsistencias y/o falta de informacion,Se cargan los catalogos,#Descripcion detallada de campos,R,3
+PROC_01,EVALUAR,RECIBIR Y EVALUAR informacion,,Muestra catalogos,#Descripcion detallada de campos,X,3
+PROC_01,EVALUAR,RECIBIR Y EVALUAR informacion,Flujos alternos: Notificar inconsistencias y/o falta de informacion,Se lee informacion de cada TRAMITE para la generacion de REPORTE de sustitucion de informacion,#Descripcion detallada de campos,R,1
+PROC_01,EVALUAR,RECIBIR Y EVALUAR informacion,Flujos alternos: Notificar inconsistencias y/o falta de informacion,Se muestra informacion de cada TRAMITE para la generacion de REPORTE de sustitucion de informacion,#Descripcion detallada de campos,X,1
+PROC_01,EVALUAR,RECIBIR Y EVALUAR informacion,Flujos alternos: Notificar inconsistencias y/o falta de informacion,Se guarda el cambio de estatus del TRAMITE en apercibimiento,#Descripcion detallada de campos,W,1
+PROC_01,EVALUAR,RECIBIR Y EVALUAR informacion,Flujos alternos: Reporte de desechamiento,Se cargan los catalogos,#Descripcion detallada de campos,R,3
+PROC_01,EVALUAR,RECIBIR Y EVALUAR informacion,Flujos alternos: Reporte de desechamiento,Muestra catalogos,#Descripcion detallada de campos,X,3
+PROC_01,EVALUAR,RECIBIR Y EVALUAR informacion,Flujos alternos: Reporte de desechamiento,Se lee informacion de cada TRAMITE para la generacion de REPORTE de desechamiento,#Descripcion detallada de campos,R,1
+PROC_01,EVALUAR,RECIBIR Y EVALUAR informacion,Flujos alternos: Reporte de desechamiento,Se muestra informacion de cada TRAMITE para la generacion de REPORTE de desechamiento,#Descripcion detallada de campos,X,1
+PROC_01,EVALUAR,RECIBIR Y EVALUAR informacion,Flujos alternos: Reporte de desechamiento,Se guarda el cambio de estatus del TRAMITE en notificacion,#Descripcion detallada de campos,W,1
+PROC_01,EVALUAR,INTEGRAR EXPEDIENTE PARA GENERAR DICTAMEN,Muestra solicitudes del TRAMITE asignadas que han sido analizadas (validadas),Se cargan los catalogos,#Descripcion detallada de campos,R,5
+PROC_01,EVALUAR,INTEGRAR EXPEDIENTE PARA GENERAR DICTAMEN,Muestra solicitudes del TRAMITE asignadas que han sido analizadas (validadas),Se muestran los catalogos,#Descripcion detallada de campos,X,5
+PROC_01,EVALUAR,INTEGRAR EXPEDIENTE PARA GENERAR DICTAMEN,Muestra solicitudes del TRAMITE asignadas que han sido analizadas (validadas),Se muestran las solicitudes analizadas y listas para generar DICTAMEN,#Descripcion detallada de campos,X,6
+PROC_01,EVALUAR,INTEGRAR EXPEDIENTE PARA GENERAR DICTAMEN,Muestra solicitudes del TRAMITE asignadas que han sido analizadas (validadas),Se muestra la pantalla integracion del expediente sobre el TRAMITE seleccionado,#Descripcion detallada de campos,X,1
+PROC_01,EVALUAR,INTEGRAR EXPEDIENTE PARA GENERAR DICTAMEN,Muestra solicitudes del TRAMITE asignadas que han sido analizadas (validadas),Se lee informacion de DICTAMEN para generar reporte,#Descripcion detallada de campos,R,1
+PROC_01,EVALUAR,INTEGRAR EXPEDIENTE PARA GENERAR DICTAMEN,Muestra solicitudes del TRAMITE asignadas que han sido analizadas (validadas),Se muestra informacion de DICTAMEN para generar reporte,#Descripcion detallada de campos,X,1
+PROC_01,EVALUAR,INTEGRAR EXPEDIENTE PARA GENERAR DICTAMEN,Muestra solicitudes del TRAMITE asignadas que han sido analizadas (validadas),Se guarda el cambio de estatus a DICTAMEN generada,#Descripcion detallada de campos,W,1
+PROC_01,EVALUAR,REVISION DE DICTAMEN,Se revisa por niveles jerarquicos,Se cargan los catalogos,#Descripcion detallada de campos,R,5
+PROC_01,EVALUAR,REVISION DE DICTAMEN,Se revisa por niveles jerarquicos,Se muestran los catalogos,#Descripcion detallada de campos,X,5
+PROC_01,EVALUAR,REVISION DE DICTAMEN,Se revisa por niveles jerarquicos,Se muestran los dictamenes analizadas por parte del evaluador,#Descripcion detallada de campos,X,6
+PROC_01,EVALUAR,REVISION DE DICTAMEN,Se revisa por niveles jerarquicos,Se muestra la DICTAMEN a generar en particular,#Descripcion detallada de campos,X,1
+PROC_01,EVALUAR,REVISION DE DICTAMEN,Se revisa por niveles jerarquicos,"Se guarda el cambio del estatus de la DICTAMEN a ""En proceso""",#Descripcion detallada de campos,W,1
+PROC_01,EVALUAR,REVISION DE DICTAMEN,Flujo alterno: Rechazar Dictamen,Se cargan los catalogos,#Descripcion detallada de campos,R,3
+PROC_01,EVALUAR,REVISION DE DICTAMEN,Flujo alterno: Rechazar Dictamen,Muestra catalogos,#Descripcion detallada de campos,X,3
+PROC_01,EVALUAR,REVISION DE DICTAMEN,Flujo alterno: Rechazar Dictamen,Se muestra informacion de del dictamen para la generacion de DICTAMEN rechazada,#Descripcion detallada de campos,X,1
+PROC_01,EVALUAR,REVISION DE DICTAMEN,Flujo alterno: Rechazar Dictamen,Se guarda el cambio de estatus del TRAMITE en rechazar Dictamen,#Descripcion detallada de campos,W,1
+PROC_01,NOTIFICAR,Aprobacion O RECHAZO DEL DICTAMEN,Aprobacion por niveles jerarquicos,Se cargan los catalogos,#Descripcion detallada de campos,R,5
+PROC_01,NOTIFICAR,Aprobacion O RECHAZO DEL DICTAMEN,Aprobacion por niveles jerarquicos,Se muestran los catalogos,#Descripcion detallada de campos,X,5
+PROC_01,NOTIFICAR,Aprobacion O RECHAZO DEL DICTAMEN,Aprobacion por niveles jerarquicos,Se muestran los Dictamenes que el validador ha resuelto,#Descripcion detallada de campos,X,1
+PROC_01,NOTIFICAR,Aprobacion O RECHAZO DEL DICTAMEN,Carga el Dictamen a ser aprobado (firmado) o rechazado,Carga catalogos,#Descripcion detallada de campos,R,3
+PROC_01,NOTIFICAR,Aprobacion O RECHAZO DEL DICTAMEN,Carga el Dictamen a ser aprobado (firmado) o rechazado,Muestra catalogos,#Descripcion detallada de campos,X,3
+PROC_01,NOTIFICAR,Aprobacion O RECHAZO DEL DICTAMEN,Carga el Dictamen a ser aprobado (firmado) o rechazado,Muestra la pantalla para analizar cada campo del TRAMITE,#Descripcion detallada de campos,X,1
+PROC_01,NOTIFICAR,Aprobacion O RECHAZO DEL DICTAMEN,Carga el Dictamen a ser aprobado (firmado) o rechazado,Guarda la informacion del cambio de estatus por el Dictamen realizado,#Descripcion detallada de campos,W,1
+PROC_01,NOTIFICAR,Aprobacion O RECHAZO DEL DICTAMEN,FIRMA informacion del rol de autorizador,Captura informacion de la firma informacion,#Descripcion detallada de campos,E,1
+PROC_01,NOTIFICAR,Aprobacion O RECHAZO DEL DICTAMEN,FIRMA informacion del rol de autorizador,Consulta estatus de la firma informacion del ##### para determinar su validez (evitar revocacion o invalidez),#Descripcion detallada de campos,R,1
+PROC_01,NOTIFICAR,Aprobacion O RECHAZO DEL DICTAMEN,FIRMA informacion del rol de autorizador,Guarda informacion de firmado,#Descripcion detallada de campos,W,1
+PROC_01,NOTIFICAR,Aprobacion O RECHAZO DEL DICTAMEN,FIRMA informacion del rol de autorizador,Se leen mensajes de error,#Descripcion detallada de campos,R,1
+PROC_01,NOTIFICAR,Aprobacion O RECHAZO DEL DICTAMEN,FIRMA informacion del rol de autorizador,Se muestran mensajes de error,#Descripcion detallada de campos,X,1
+PROC_01,NOTIFICAR,Aprobacion O RECHAZO DEL DICTAMEN,Flujo alterno: Rechazar Dictamen por el autorizador,Se cargan los catalogos,#Descripcion detallada de campos,R,3
+PROC_01,NOTIFICAR,Aprobacion O RECHAZO DEL DICTAMEN,Flujo alterno: Rechazar Dictamen por el autorizador,Muestra catalogos,#Descripcion detallada de campos,X,3
+PROC_01,NOTIFICAR,Aprobacion O RECHAZO DEL DICTAMEN,Flujo alterno: Rechazar Dictamen por el autorizador,Se muestra informacion del dictamen para la generacion de DICTAMEN rechazada,#Descripcion detallada de campos,X,1
+PROC_01,NOTIFICAR,Aprobacion O RECHAZO DEL DICTAMEN,Flujo alterno: Rechazar Dictamen por el autorizador,Se guarda el cambio de estatus del TRAMITE en rechazar Dictamen,#Descripcion detallada de campos,W,1
