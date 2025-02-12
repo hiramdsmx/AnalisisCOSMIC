@@ -90,7 +90,7 @@ La implementación del modelo COSMIC se desarrolló mediante las siguientes etap
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/AnalisisCOSMIC.git
+   git clone https://github.com/hiramdsmx/AnalisisCOSMIC.git
    ```
 2. Instalar las dependencias:
    ```bash
