@@ -109,8 +109,8 @@ Las contribuciones son bienvenidas. Por favor, crea un pull request o abre un is
 
 - El trabajo presentado tiene como única finalidad mostrar una alternativa para la implementación del modelo de estimación COSMIC  cuando no exista información histórica. La información presentada se cambió y generalizó y no representa de ninguna manera un riesgo en la privacidad de la informacipon para la entidad gubernamental ni compromete de ninguna forma el proyecto implementado.
 - Asegúrate de tener todas las dependencias instaladas.
-- Lea la documentación antes de manipular el proyecto.
-- Este proyecto utiliza el modelo *COSMIC*. Todos los derechos reservados © Cosmic Sizing Organization, 2025. Para más información, visita: https://cosmic-sizing.org/
+- Lee la documentación antes de manipular el proyecto.
+- Este proyecto utiliza el modelo *COSMIC*. Todos los derechos reservados © Cosmic Sizing Organization, 2025. Para más información, visita [COSMIC](https://cosmic-sizing.org/)
 
 <h3 style="color: #5D9EC1;">➿ Licencia</h3>
 
