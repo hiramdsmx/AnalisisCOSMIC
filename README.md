@@ -105,7 +105,7 @@ La implementación del modelo COSMIC se desarrolló mediante las siguientes etap
 
 Las contribuciones son bienvenidas. Por favor, crea un pull request o abre un issue para discutir cambios.
 
-<h3 style="color: #5D9EC1;"> 📢 Puntos a Considerar</h3>
+<h3 style="color: #5D9EC1;"> 📢 Puntos a considerar</h3>
 
 - El trabajo presentado tiene como única finalidad mostrar una alternativa para la implementación del modelo de estimación COSMIC  cuando no exista información histórica. La información presentada se cambió y generalizó y no representa de ninguna manera un riesgo en la privacidad de la informacipon para la entidad gubernamental ni compromete de ninguna forma el proyecto implementado.
 - Asegúrate de tener todas las dependencias instaladas.
